@@ -1,0 +1,56 @@
+$body-bg: #231F20;
+$body-color: #FAEBD7;
+$dark: #231F20;
+$light: #FAEBD7;
+
+@import 'node_modules/bootstrap/scss/bootstrap.scss';
+@import 'node_modules/bootstrap-vue/src/index.scss';
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#app{
+    width: 100vw;
+    height: 100vh;
+}
+h3{
+    font-size: 10vw;
+}
+#mainBox{
+    height: 80vh;
+    margin-top: 15vh;
+}
+
+a{
+    text-decoration: none;
+    color: $light;
+    margin: 0;
+    padding: 0;
+    :hover{
+        text-decoration: none;
+        color: $light;
+        margin: 0;
+        padding: 0;
+    }
+}
+
+.projectTitle{
+    border-bottom: 1px solid $light;
+    color: $light
+}
+
+.projectDesc{
+    border-left: 1px solid $light;
+    color: $light;
+    @media (max-width: 770px){
+        margin-top: 15px
+    }
+}
+
+   
