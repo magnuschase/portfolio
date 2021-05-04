@@ -15,6 +15,11 @@
         <p>School: Technikum Łączności nr 14 w Krakowie</p>
       </b-col>
     </b-row>
+    <b-row>
+      <b-col class="d-flex align-items-center justify-content-center">
+        <p>Core Skills: Vue, Express, Node, JavaScript, Kotlin</p>
+      </b-col>
+    </b-row>
     <b-row class="d-block d-md-none mt-8">
       <b-col>
         <img
