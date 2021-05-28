@@ -17,6 +17,11 @@
     </b-row>
     <b-row>
       <b-col class="d-flex align-items-center justify-content-center">
+        <p>Since 2021 - WeAstronauts (front-end-developer)</p>
+      </b-col>
+    </b-row>
+    <b-row>
+      <b-col class="d-flex align-items-center justify-content-center">
         <p>Core Skills: Vue, Express, Node, JavaScript, Kotlin</p>
       </b-col>
     </b-row>
@@ -42,11 +47,6 @@
           src="./../assets/rightDark.svg"
           style="width: 27vw; position: absolute; left: 73vw"
         />
-      </b-col>
-    </b-row>
-    <b-row>
-      <b-col class="d-flex align-items-center justify-content-center">
-        <p>Since 2021 - WeAstronauts (front-end-developer)</p>
       </b-col>
     </b-row>
     <b-row>
