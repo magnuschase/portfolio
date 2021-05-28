@@ -56,15 +56,17 @@
     </b-row>
     <b-row>
       <b-col class="d-flex align-items-center justify-content-center">
-        <p>
-          2020 - Agencja Interaktywna Krakweb (junior front-end
-          developer/intern)
-        </p>
+        <p>2020 - Agencja Interaktywna Krakweb (intern)</p>
       </b-col>
     </b-row>
     <b-row>
       <b-col class="d-flex align-items-center justify-content-center">
         <p>2021 - CISCO (intern)</p>
+      </b-col>
+    </b-row>
+    <b-row>
+      <b-col class="d-flex align-items-center justify-content-center">
+        <p>2021 - now - WeAstronauts (front-end-developer)</p>
       </b-col>
     </b-row>
   </div>
